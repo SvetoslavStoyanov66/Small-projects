@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\bin\Debug\net6.0\Turn base combat console game.exe
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\bin\Debug\net6.0\Turn base combat console game.deps.json
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\bin\Debug\net6.0\Turn base combat console game.runtimeconfig.json
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\bin\Debug\net6.0\Turn base combat console game.dll
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\bin\Debug\net6.0\Turn base combat console game.pdb
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\Turn base combat console game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\Turn base combat console game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\Turn base combat console game.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\Turn base combat console game.AssemblyInfo.cs
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\Turn base combat console game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\Turn base combat console game.dll
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\refint\Turn base combat console game.dll
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\Turn base combat console game.pdb
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\Turn base combat console game.genruntimeconfig.cache
+C:\Users\User\source\repos\Turn base combat console game\Turn base combat console game\obj\Debug\net6.0\ref\Turn base combat console game.dll
